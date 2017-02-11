@@ -1,0 +1,6 @@
+data
+.idea
+node_modules
+**/node_modules
+**/typings
+**/npm-debug.log
